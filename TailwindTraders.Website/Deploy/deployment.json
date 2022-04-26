@@ -28,7 +28,7 @@
     },
     "apiBaseUrl": {
       "type": "string",
-      "defaultValue": "b92e105392d5401a8901.northeurope.aksapp.io"
+      "defaultValue": "https://backend.tailwindtraders.com/"
     },
     "enablePersonalizer": {
       "type": "bool",
